@@ -1,0 +1,86 @@
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\AppDeteccionPlagio_RabinKarp.exe.config
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\AppDeteccionPlagio_RabinKarp.exe
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\AppDeteccionPlagio_RabinKarp.pdb
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.csprojAssemblyReference.cache
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.Properties.Resources.resources
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.csproj.GenerateResource.cache
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.csproj.CoreCompileInputs.cache
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.exe
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.pdb
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.csproj.CopyComplete
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\Guna.UI.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\pdfbox-1.8.9.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.Runtime.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\commons-logging.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\junit.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\fontbox-1.8.9.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\jempbox-1.8.9.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\icu4j-3.8.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.FrmBuscarCoincidencias.resources
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.FormPrincipal.resources
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\AppDeteccionPlagio_RabinKarp.exe.manifest
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\AppDeteccionPlagio_RabinKarp.application
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.exe.manifest
+C:\Users\dinho\Desktop\seg-2020-II\Alg-Avanzados\proyecto_rabin\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.application
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\AppDeteccionPlagio_RabinKarp.exe.config
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\AppDeteccionPlagio_RabinKarp.exe.manifest
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\AppDeteccionPlagio_RabinKarp.application
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\AppDeteccionPlagio_RabinKarp.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\AppDeteccionPlagio_RabinKarp.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\pdfbox-1.8.9.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.Runtime.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\commons-logging.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\junit.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\fontbox-1.8.9.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\jempbox-1.8.9.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\icu4j-3.8.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.csprojAssemblyReference.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.FormPrincipal.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.FrmBuscarCoincidencias.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.Properties.Resources.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.csproj.GenerateResource.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.exe.manifest
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.application
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.csproj.CopyComplete
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\ALGORITMOS AVANZADOS\proyecto\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp\obj\Debug\AppDeteccionPlagio_RabinKarp.pdb

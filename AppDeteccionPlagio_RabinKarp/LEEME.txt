@@ -1,0 +1,14 @@
+Para el funcionamiento se utilizo la libreria PDFBox.NET por que que
+es necesario agregar las referencias de los archivos dll al proyecto,
+estan contenidas en la carpeta : librerias
+
+agregar referencias a: 
+-IKVM.OpenJDK.Core.dll
+-IKVM.OpenJDK.SwingAWT.dll
+-pdfbox-1.8.9.dll
+
+
+PARA LA UTILIZACION:
+- Se debe seleccionar 2 arcvhivos pdf(pappers, monografias, resoluciones, etc,)
+o escribir 2 textos para compararlos
+- si el procentaje de similitud es mayor igual al 30% se considera plagio

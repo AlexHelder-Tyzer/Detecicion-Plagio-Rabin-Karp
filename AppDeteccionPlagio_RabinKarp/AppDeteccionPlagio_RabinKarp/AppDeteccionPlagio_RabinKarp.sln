@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDeteccionPlagio_RabinKarp", "AppDeteccionPlagio_RabinKarp\AppDeteccionPlagio_RabinKarp.csproj", "{5448CCC8-9D3A-4EF2-8837-4E616B39589A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5448CCC8-9D3A-4EF2-8837-4E616B39589A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5448CCC8-9D3A-4EF2-8837-4E616B39589A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5448CCC8-9D3A-4EF2-8837-4E616B39589A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5448CCC8-9D3A-4EF2-8837-4E616B39589A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20A14F2C-0F8D-44DA-B391-4E30AAE19164}
+	EndGlobalSection
+EndGlobal
